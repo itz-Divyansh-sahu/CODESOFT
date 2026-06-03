@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "phone": "9876543210",
+        "email": "john.doe@gmail.com",
+        "address": "New York"
+    },
+    {
+        "id": 2,
+        "name": "Alice Smith",
+        "phone": "9123456780",
+        "email": "alice.smith@gmail.com",
+        "address": "Chicago"
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "phone": "9988776655",
+        "email": "bob.johnson@gmail.com",
+        "address": "Los Angeles"
+    },
+    {
+        "id": 4,
+        "name": "Emma Watson",
+        "phone": "9012345678",
+        "email": "emma.watson@gmail.com",
+        "address": "London"
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "phone": "9090909090",
+        "email": "michael.brown@gmail.com",
+        "address": "Texas"
+    },
+    {
+        "id": 6,
+        "name": "Sophia Lee",
+        "phone": "8887776665",
+        "email": "sophia.lee@gmail.com",
+        "address": "Seoul"
+    },
+    {
+        "id": 7,
+        "name": "David Miller",
+        "phone": "7766554433",
+        "email": "david.miller@gmail.com",
+        "address": "San Francisco"
+    },
+    {
+        "id": 8,
+        "name": "Olivia Clark",
+        "phone": "7654321098",
+        "email": "olivia.clark@gmail.com",
+        "address": "Toronto"
+    },
+    {
+        "id": 9,
+        "name": "James Wilson",
+        "phone": "9543216780",
+        "email": "james.wilson@gmail.com",
+        "address": "Berlin"
+    },
+    {
+        "id": 10,
+        "name": "Charlotte Davis",
+        "phone": "9345678901",
+        "email": "charlotte.davis@gmail.com",
+        "address": "Paris"
+    },
+    {
+        "id": 11,
+        "name": "Benjamin White",
+        "phone": "9234567810",
+        "email": "ben.white@gmail.com",
+        "address": "Sydney"
+    },
+    {
+        "id": 12,
+        "name": "Daniel Harris",
+        "phone": "9123904567",
+        "email": "daniel.harris@gmail.com",
+        "address": "Dubai"
+    },
+    {
+        "id": 13,
+        "name": "Isabella Martinez",
+        "phone": "9001122334",
+        "email": "isabella.m@gmail.com",
+        "address": "Madrid"
+    },
+    {
+        "id": 14,
+        "name": "Ethan Anderson",
+        "phone": "9112233445",
+        "email": "ethan.anderson@gmail.com",
+        "address": "Miami"
+    },
+    {
+        "id": 15,
+        "name": "Mia Thompson",
+        "phone": "9223344556",
+        "email": "mia.thompson@gmail.com",
+        "address": "Seattle"
+    }
+]
