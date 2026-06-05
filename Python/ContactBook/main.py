@@ -22,7 +22,7 @@ ctk.set_default_color_theme("blue")
 # ---------------- APP WINDOW ----------------
 app = ctk.CTk()
 app.title("Contact Book")
-app.geometry("900x600")
+app.geometry("950x750")
 app.configure(fg_color="#1d2430")
 
 
