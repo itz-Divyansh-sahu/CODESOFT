@@ -110,7 +110,7 @@ class AboutPage(ctk.CTkFrame):
             "1. Select number of rounds from Home page\n"
             "2. Click 'Next' to start the game\n"
             "3. Choose Rock, Paper, or Scissors in each round\n"
-            "4. AI will automatically make its move\n"
+            "4. Compter will automatically make its move\n"
             "5. Result and score will update instantly\n"
             "6. After all rounds, final winner will be shown\n"
             "7. You can view match history anytime"
