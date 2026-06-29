@@ -1,4 +1,4 @@
-# 🚀 CODESOFT Internship Projects
+# 🚀 CODSOFT Internship Projects
 ### This repository contains the tasks completed as part of the CODESOFT Internship Program.
 
 ***I have worked on two domains:***
@@ -175,6 +175,6 @@ iris.ipynb
 **It helps others discover the project and motivates future improvements.❤️**
 
 ### <br> <p align="center">⭐ Thank You</p>
-***<p align="center"> @CODESOFT</p>***
+***<p align="center"> @CODSOFT</p>***
 
 
